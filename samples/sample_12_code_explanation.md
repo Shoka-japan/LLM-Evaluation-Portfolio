@@ -1,16 +1,16 @@
-# Sample 03: Translation
+# Sample 12: Code Explanation
 
 ## Prompt
 
-Translate into natural English: 今日はいい天気ですね。
+Explain what `len(my_list)` does in Python.
 
 ## Response A
 
-The weather is nice today.
+`len(my_list)` returns the number of elements in `my_list`.
 
 ## Response B
 
-Today weather good.
+`len(my_list)` adds all numbers in the list.
 
 ## Evaluation
 
@@ -28,4 +28,4 @@ Today weather good.
 
 ## Explanation
 
-Response A is accurate, grammatical, and natural. Response B roughly conveys the meaning but is ungrammatical and unnatural.
+Response A correctly explains the function. Response B confuses length with summation.

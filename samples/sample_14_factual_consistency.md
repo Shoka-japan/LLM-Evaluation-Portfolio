@@ -1,16 +1,16 @@
-# Sample 03: Translation
+# Sample 14: Factual Consistency
 
 ## Prompt
 
-Translate into natural English: 今日はいい天気ですね。
+Which planet is known as the Red Planet?
 
 ## Response A
 
-The weather is nice today.
+Mars is known as the Red Planet.
 
 ## Response B
 
-Today weather good.
+Venus is known as the Red Planet.
 
 ## Evaluation
 
@@ -28,4 +28,4 @@ Today weather good.
 
 ## Explanation
 
-Response A is accurate, grammatical, and natural. Response B roughly conveys the meaning but is ungrammatical and unnatural.
+Response A is factually correct. Response B is incorrect.

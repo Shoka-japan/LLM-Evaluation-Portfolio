@@ -1,16 +1,16 @@
-# Sample 03: Translation
+# Sample 23: Translation Nuance
 
 ## Prompt
 
-Translate into natural English: 今日はいい天気ですね。
+Translate into English: 彼は来るかもしれません。
 
 ## Response A
 
-The weather is nice today.
+He might come.
 
 ## Response B
 
-Today weather good.
+He must come.
 
 ## Evaluation
 
@@ -28,4 +28,4 @@ Today weather good.
 
 ## Explanation
 
-Response A is accurate, grammatical, and natural. Response B roughly conveys the meaning but is ungrammatical and unnatural.
+Response A preserves uncertainty. Response B incorrectly changes the meaning to obligation or certainty.

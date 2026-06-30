@@ -1,16 +1,16 @@
-# Sample 03: Translation
+# Sample 25: Groundedness
 
 ## Prompt
 
-Translate into natural English: 今日はいい天気ですね。
+Based only on this text: 'The store opens at 9 AM and closes at 6 PM.' What time does the store close?
 
 ## Response A
 
-The weather is nice today.
+The store closes at 6 PM.
 
 ## Response B
 
-Today weather good.
+The store closes at 8 PM on weekends.
 
 ## Evaluation
 
@@ -28,4 +28,4 @@ Today weather good.
 
 ## Explanation
 
-Response A is accurate, grammatical, and natural. Response B roughly conveys the meaning but is ungrammatical and unnatural.
+Response A is grounded in the provided text. Response B adds unsupported information.

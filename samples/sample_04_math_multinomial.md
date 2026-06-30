@@ -1,16 +1,16 @@
-# Sample 03: Translation
+# Sample 04: Math Multinomial
 
 ## Prompt
 
-Translate into natural English: 今日はいい天気ですね。
+What is the coefficient of a²b²c² in (a + b + c)^6?
 
 ## Response A
 
-The weather is nice today.
+The coefficient is 90 because 6! / (2!2!2!) = 90.
 
 ## Response B
 
-Today weather good.
+The coefficient is 720 because 6! = 720.
 
 ## Evaluation
 
@@ -28,4 +28,4 @@ Today weather good.
 
 ## Explanation
 
-Response A is accurate, grammatical, and natural. Response B roughly conveys the meaning but is ungrammatical and unnatural.
+Response A correctly uses the multinomial coefficient. Response B ignores repeated factors and is incorrect.

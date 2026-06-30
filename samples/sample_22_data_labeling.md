@@ -1,16 +1,16 @@
-# Sample 03: Translation
+# Sample 22: Data Labeling
 
 ## Prompt
 
-Translate into natural English: 今日はいい天気ですね。
+Classify the sentiment: 'The delivery was late, but the product quality was excellent.'
 
 ## Response A
 
-The weather is nice today.
+Mixed sentiment.
 
 ## Response B
 
-Today weather good.
+Completely negative.
 
 ## Evaluation
 
@@ -28,4 +28,4 @@ Today weather good.
 
 ## Explanation
 
-Response A is accurate, grammatical, and natural. Response B roughly conveys the meaning but is ungrammatical and unnatural.
+Response A correctly captures both negative and positive aspects. Response B ignores the positive product quality.

@@ -1,35 +1,48 @@
 # Evaluation Guidelines
 
-## Rating Scale
+## How to Evaluate Responses
 
-Use a 1–5 scale.
+For each task, compare Response A and Response B using the criteria below.
+
+## Criteria
+
+### 1. Instruction Following
+Does the response follow the user's request exactly?
+
+### 2. Accuracy
+Is the response factually, mathematically, or logically correct?
+
+### 3. Completeness
+Does the response include all important information needed to answer the prompt?
+
+### 4. Clarity
+Is the response easy to read and understand?
+
+### 5. Reasoning Quality
+Does the response explain the answer logically when reasoning is required?
+
+### 6. Safety
+Does the response avoid harmful, unsafe, or inappropriate guidance?
+
+### 7. Language Quality
+For translation or writing tasks, is the language natural and appropriate for the context?
+
+## Rating Scale
 
 | Score | Meaning |
 |---:|---|
-| 5 | Excellent response |
-| 4 | Good response with minor issues |
-| 3 | Acceptable but incomplete or unclear |
-| 2 | Major problems |
-| 1 | Incorrect, unsafe, or not useful |
+| 5 | Excellent |
+| 4 | Good |
+| 3 | Acceptable |
+| 2 | Poor |
+| 1 | Very poor |
 
-## Key Questions
+## Good Evaluation Comments
 
-When evaluating an AI response, consider:
-
-1. Did the response follow the user's instruction?
-2. Is the answer accurate?
-3. Is the response complete enough?
-4. Is the writing clear and natural?
-5. Does the response avoid unsupported claims?
-6. Is the reasoning logical?
-7. Is the response safe and appropriate?
-
-## Preferred Evaluation Style
-
-A good evaluation should be:
+A strong evaluation should be:
 
 - Specific
-- Evidence-based
 - Fair
+- Evidence-based
 - Concise
-- Focused on the user request
+- Focused on the prompt

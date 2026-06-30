@@ -1,16 +1,22 @@
-# Sample 03: Translation
+# Sample 24: Python Readability
 
 ## Prompt
 
-Translate into natural English: 今日はいい天気ですね。
+Which code is more readable?
 
 ## Response A
 
-The weather is nice today.
+```python
+for student in students:
+    print(student.name)
+```
 
 ## Response B
 
-Today weather good.
+```python
+for x in s:
+    print(x.n)
+```
 
 ## Evaluation
 
@@ -28,4 +34,4 @@ Today weather good.
 
 ## Explanation
 
-Response A is accurate, grammatical, and natural. Response B roughly conveys the meaning but is ungrammatical and unnatural.
+Response A uses meaningful variable and attribute names, making it easier to understand. Response B is shorter but less readable.

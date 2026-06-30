@@ -1,33 +1,41 @@
 # LLM Evaluation Portfolio
 
-A portfolio project demonstrating basic skills for evaluating Large Language Model (LLM) outputs.
+A portfolio project demonstrating practical skills for evaluating Large Language Model (LLM) outputs.
 
-This repository includes sample evaluations of AI-generated responses based on criteria such as accuracy, instruction following, clarity, completeness, and reasoning quality.
+This repository contains 30 sample evaluations across reasoning, coding, translation, Japanese writing, summarization, safety, and factual accuracy tasks. Each sample compares two AI responses and evaluates them using clear criteria.
 
 ## Purpose
 
-This project was created to demonstrate practical understanding of AI response evaluation and data annotation workflows.
-
-It is especially relevant to roles involving:
+This portfolio is designed to demonstrate skills relevant to:
 
 - AI data annotation
 - LLM response evaluation
 - Human feedback for AI training
 - Japanese-English language evaluation
-- Code and reasoning evaluation
+- Coding and reasoning evaluation
+- Instruction-following assessment
 
 ## Evaluation Criteria
-
-Each sample is evaluated using the following criteria:
 
 | Criterion | Description |
 |---|---|
 | Instruction Following | Whether the response follows the user's request |
-| Accuracy | Whether the content is factually or logically correct |
-| Completeness | Whether the answer covers the important points |
+| Accuracy | Whether the response is factually or logically correct |
+| Completeness | Whether the response covers the important points |
 | Clarity | Whether the response is easy to understand |
-| Reasoning Quality | Whether the explanation is logical and well-supported |
+| Reasoning Quality | Whether the explanation is logical |
 | Safety | Whether the response avoids harmful or inappropriate content |
+| Language Quality | Whether the language is natural and appropriate |
+
+## Rating Scale
+
+| Score | Meaning |
+|---:|---|
+| 5 | Excellent |
+| 4 | Good with minor issues |
+| 3 | Acceptable but incomplete |
+| 2 | Major issues |
+| 1 | Poor, incorrect, unsafe, or not useful |
 
 ## Repository Structure
 
@@ -35,12 +43,12 @@ Each sample is evaluated using the following criteria:
 LLM-Evaluation-Portfolio/
 ├── README.md
 ├── evaluation_guidelines.md
+├── resume_entry.md
 └── samples/
     ├── sample_01_science.md
-    ├── sample_02_python.md
-    ├── sample_03_translation.md
-    ├── sample_04_math.md
-    └── sample_05_japanese_quality.md
+    ├── sample_02_python_factorial.md
+    ├── ...
+    └── sample_30_japanese_professional_email.md
 ```
 
 ## Author

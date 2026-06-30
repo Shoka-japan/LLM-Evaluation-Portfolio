@@ -1,16 +1,16 @@
-# Sample 03: Translation
+# Sample 28: Math Units
 
 ## Prompt
 
-Translate into natural English: 今日はいい天気ですね。
+Convert 2.5 kilometers to meters.
 
 ## Response A
 
-The weather is nice today.
+2.5 kilometers is 2500 meters.
 
 ## Response B
 
-Today weather good.
+2.5 kilometers is 250 meters.
 
 ## Evaluation
 
@@ -28,4 +28,4 @@ Today weather good.
 
 ## Explanation
 
-Response A is accurate, grammatical, and natural. Response B roughly conveys the meaning but is ungrammatical and unnatural.
+Response A correctly uses 1 km = 1000 m. Response B is off by a factor of 10.
